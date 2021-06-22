@@ -1,0 +1,13 @@
+{
+    "name": "franchyreyes/cliente-api",
+    "description": "Api REST for a Client project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Franchy Reyes",
+            "email": "franchyreyes@hotmail.com"
+        }
+    ],
+    "require": {}
+}
