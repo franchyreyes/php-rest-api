@@ -14,7 +14,8 @@
         "vlucas/phpdotenv": "^5.3",
         "fzaninotto/faker": "^1.9",
         "illuminate/events": "^8.48",
-        "maer/config": "^2.0"
+        "maer/config": "^2.0",
+        "illuminate/routing": "^8.48"
     },
     "autoload": {
         "psr-4": {
