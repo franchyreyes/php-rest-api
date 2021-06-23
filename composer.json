@@ -1,5 +1,5 @@
 {
-    "name": "franchyreyes/cliente-api",
+    "name": "franchyreyes/client-api",
     "description": "Api REST for a Client project",
     "type": "project",
     "license": "MIT",
@@ -9,5 +9,17 @@
             "email": "franchyreyes@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/database": "^8.48",
+        "vlucas/phpdotenv": "^5.3",
+        "fzaninotto/faker": "^1.9",
+        "illuminate/events": "^8.48",
+        "maer/config": "^2.0",
+        "illuminate/routing": "^8.48"
+    },
+    "autoload": {
+        "psr-4": {
+            "FJR\\": "app/"
+        }
+    }
 }
